@@ -76,7 +76,7 @@ a) battery depletion
 In the wilderness, it is challenging to recharge sensor nodes.
 The battery of normal sensors will be used for sending messages.
 The battery of cluster-heads is used for compressing messages, receiving messages and sending messages.
-The energy consumption is calculated based on the First Order Radio model proposed in reference[xx]
+The energy consumption is calculated based on the First Order Radio model proposed in the classical paper of LEACH(Heinzelman, Chandrakasan and Balakrishnan, 2000).
 
 
 b) other accident factors
